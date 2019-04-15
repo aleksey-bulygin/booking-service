@@ -1,0 +1,7 @@
+[INFO ] 2019-03-11 18:29:54.665 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 16292 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[DEBUG] 2019-03-11 18:29:54.665 [restartedMain] App - Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+[INFO ] 2019-03-11 18:29:54.665 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-11 18:30:15.554 [restartedMain] App - Started App in 21.975 seconds (JVM running for 26.674)
+[DEBUG] 2019-03-11 18:30:15.554 [restartedMain] App - debug
+[INFO ] 2019-03-11 18:30:15.554 [restartedMain] App - info
+[ERROR] 2019-03-11 18:30:15.554 [restartedMain] App - error

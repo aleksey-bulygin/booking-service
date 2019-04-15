@@ -1,0 +1,21 @@
+[INFO ] 2019-03-14 16:33:44.356 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 11968 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-14 16:33:44.371 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-14 16:34:05.809 [restartedMain] App - Started App in 22.625 seconds (JVM running for 28.672)
+[INFO ] 2019-03-14 16:34:05.827 [restartedMain] App - info
+[ERROR] 2019-03-14 16:34:05.827 [restartedMain] App - error
+[INFO ] 2019-03-14 16:36:54.413 [http-nio-8080-exec-2] AdminController - Enter in showRooms method
+[INFO ] 2019-03-14 16:49:23.375 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 12876 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-14 16:49:23.386 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-14 16:49:48.133 [restartedMain] App - Started App in 25.81 seconds (JVM running for 30.659)
+[INFO ] 2019-03-14 16:49:48.151 [restartedMain] App - info
+[ERROR] 2019-03-14 16:49:48.151 [restartedMain] App - error
+[INFO ] 2019-03-14 17:01:20.851 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 12712 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-14 17:01:20.859 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-14 17:01:39.648 [restartedMain] App - Started App in 19.963 seconds (JVM running for 24.538)
+[INFO ] 2019-03-14 17:01:39.658 [restartedMain] App - info
+[ERROR] 2019-03-14 17:01:39.658 [restartedMain] App - error
+[INFO ] 2019-03-14 18:14:31.849 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 3120 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-14 18:14:31.857 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-14 18:14:50.574 [restartedMain] App - Started App in 19.796 seconds (JVM running for 24.343)
+[INFO ] 2019-03-14 18:14:50.586 [restartedMain] App - info
+[ERROR] 2019-03-14 18:14:50.586 [restartedMain] App - error

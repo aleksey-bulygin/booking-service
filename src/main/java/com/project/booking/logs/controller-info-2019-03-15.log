@@ -1,0 +1,139 @@
+[INFO ] 2019-03-15 11:35:27.802 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 10676 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:35:27.942 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:35:41.052 [restartedMain] App - Started App in 14.167 seconds (JVM running for 20.963)
+[INFO ] 2019-03-15 11:35:41.068 [restartedMain] App - info
+[ERROR] 2019-03-15 11:35:41.068 [restartedMain] App - error
+[INFO ] 2019-03-15 11:39:01.277 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 11980 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:39:01.324 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:39:15.865 [restartedMain] App - Started App in 15.88 seconds (JVM running for 20.59)
+[INFO ] 2019-03-15 11:39:15.881 [restartedMain] App - info
+[ERROR] 2019-03-15 11:39:15.881 [restartedMain] App - error
+[INFO ] 2019-03-15 11:39:53.456 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 10420 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:39:53.456 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:40:05.362 [restartedMain] App - Started App in 12.75 seconds (JVM running for 17.214)
+[INFO ] 2019-03-15 11:40:05.377 [restartedMain] App - info
+[ERROR] 2019-03-15 11:40:05.377 [restartedMain] App - error
+[INFO ] 2019-03-15 11:42:24.942 [http-nio-8080-exec-4] AdminController - Enter in showRooms method
+[INFO ] 2019-03-15 11:45:48.397 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 13860 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:45:48.397 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:46:00.813 [restartedMain] App - Started App in 13.449 seconds (JVM running for 17.791)
+[INFO ] 2019-03-15 11:46:00.813 [restartedMain] App - info
+[ERROR] 2019-03-15 11:46:00.813 [restartedMain] App - error
+[INFO ] 2019-03-15 11:47:00.456 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 11076 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:47:00.456 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:47:12.471 [restartedMain] App - Started App in 12.923 seconds (JVM running for 17.297)
+[INFO ] 2019-03-15 11:47:12.471 [restartedMain] App - info
+[ERROR] 2019-03-15 11:47:12.471 [restartedMain] App - error
+[INFO ] 2019-03-15 11:47:53.563 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 1216 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:47:53.563 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:48:05.830 [restartedMain] App - Started App in 13.187 seconds (JVM running for 17.499)
+[INFO ] 2019-03-15 11:48:05.830 [restartedMain] App - info
+[ERROR] 2019-03-15 11:48:05.830 [restartedMain] App - error
+[INFO ] 2019-03-15 11:50:17.112 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 7240 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:50:17.127 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:50:29.066 [restartedMain] App - Started App in 12.92 seconds (JVM running for 17.208)
+[INFO ] 2019-03-15 11:50:29.066 [restartedMain] App - info
+[ERROR] 2019-03-15 11:50:29.066 [restartedMain] App - error
+[INFO ] 2019-03-15 11:55:18.955 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 4544 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 11:55:18.955 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 11:55:30.986 [restartedMain] App - Started App in 12.96 seconds (JVM running for 17.611)
+[INFO ] 2019-03-15 11:55:30.986 [restartedMain] App - info
+[ERROR] 2019-03-15 11:55:30.986 [restartedMain] App - error
+[INFO ] 2019-03-15 12:15:50.638 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 3716 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 12:15:50.638 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 12:16:08.788 [restartedMain] App - Started App in 19.3 seconds (JVM running for 24.034)
+[INFO ] 2019-03-15 12:16:08.788 [restartedMain] App - info
+[ERROR] 2019-03-15 12:16:08.788 [restartedMain] App - error
+[INFO ] 2019-03-15 12:39:34.437 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 8792 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 12:39:34.447 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 12:39:51.547 [main] AdminControllerTest - Started AdminControllerTest in 18.28 seconds (JVM running for 23.882)
+[INFO ] 2019-03-15 12:45:10.997 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 884 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 12:45:10.997 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 12:45:22.899 [restartedMain] App - Started App in 12.747 seconds (JVM running for 17.502)
+[INFO ] 2019-03-15 12:45:22.914 [restartedMain] App - info
+[ERROR] 2019-03-15 12:45:22.914 [restartedMain] App - error
+[INFO ] 2019-03-15 12:51:11.335 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 10328 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 12:51:11.345 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 12:51:52.711 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 7552 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 12:51:52.727 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 12:52:06.284 [restartedMain] App - Started App in 14.525 seconds (JVM running for 19.222)
+[INFO ] 2019-03-15 12:52:06.284 [restartedMain] App - info
+[ERROR] 2019-03-15 12:52:06.284 [restartedMain] App - error
+[INFO ] 2019-03-15 13:35:54.473 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 9640 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:35:54.473 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:36:56.597 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 6288 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:36:56.602 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:37:54.590 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 10300 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:37:54.599 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:38:48.112 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 3208 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:38:48.117 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:41:05.238 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 14028 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:41:05.243 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:44:26.970 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 13440 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:44:26.978 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 13:45:17.712 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 5856 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 13:45:17.716 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 14:31:02.477 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 1316 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 14:31:02.485 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 14:33:44.975 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 14372 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 14:33:45.007 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 14:34:09.409 [restartedMain] App - Started App in 28.025 seconds (JVM running for 33.342)
+[INFO ] 2019-03-15 14:34:09.421 [restartedMain] App - info
+[ERROR] 2019-03-15 14:34:09.421 [restartedMain] App - error
+[INFO ] 2019-03-15 14:38:16.477 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 4240 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 14:38:16.477 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 14:39:05.704 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 11248 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 14:39:05.704 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 14:39:27.721 [restartedMain] App - Started App in 25.153 seconds (JVM running for 30.284)
+[INFO ] 2019-03-15 14:39:27.736 [restartedMain] App - info
+[ERROR] 2019-03-15 14:39:27.736 [restartedMain] App - error
+[INFO ] 2019-03-15 14:40:58.536 [http-nio-8080-exec-3] AdminController - Enter in showRooms method
+[INFO ] 2019-03-15 14:54:42.076 [main] AdminServiceTest - Starting AdminServiceTest on DESKTOP-DOTFQK3 with PID 4208 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 14:54:42.089 [main] AdminServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 15:57:28.116 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-15 16:12:30.389 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-15 16:26:08.621 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-15 17:50:06.418 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 10896 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 17:50:06.425 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 17:50:26.865 [main] AdminControllerTest - Started AdminControllerTest in 23.133 seconds (JVM running for 28.374)
+[INFO ] 2019-03-15 17:57:11.136 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 11884 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 17:57:11.151 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 17:59:31.191 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 6684 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 17:59:31.204 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 17:59:34.607 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 6684 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 17:59:34.617 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:00:33.652 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 2892 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:00:33.668 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:02:12.273 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 7432 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:02:12.292 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:08:18.103 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 1412 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:08:18.124 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:09:13.976 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 2464 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:09:13.991 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:09:29.463 [restartedMain] App - Started App in 17.764 seconds (JVM running for 23.126)
+[INFO ] 2019-03-15 18:09:29.470 [restartedMain] App - info
+[ERROR] 2019-03-15 18:09:29.470 [restartedMain] App - error
+[INFO ] 2019-03-15 18:24:20.708 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 14552 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:24:20.737 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:27:42.069 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 15116 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:27:42.081 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:30:02.559 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 11312 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:30:02.559 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:34:43.426 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 11504 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:34:43.442 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:37:33.044 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 4176 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:37:33.058 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:39:02.454 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 9192 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:39:02.533 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:40:28.749 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 10204 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:40:28.766 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:40:35.688 [main] AdminControllerTest - Started AdminControllerTest in 9.993 seconds (JVM running for 14.95)
+[INFO ] 2019-03-15 18:42:07.819 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 12884 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:42:07.839 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:42:15.210 [main] AdminControllerTest - Started AdminControllerTest in 10.583 seconds (JVM running for 16.21)
+[INFO ] 2019-03-15 18:52:50.219 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 9668 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:52:50.233 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:52:55.102 [main] AdminControllerTest - Started AdminControllerTest in 7.785 seconds (JVM running for 12.281)
+[INFO ] 2019-03-15 18:54:16.246 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 7628 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-15 18:54:16.257 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-15 18:54:21.017 [main] AdminControllerTest - Started AdminControllerTest in 8.161 seconds (JVM running for 13.013)

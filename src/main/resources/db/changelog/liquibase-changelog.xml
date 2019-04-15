@@ -1,0 +1,132 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <changeSet id="01" author="postgres">
+
+        <createSequence sequenceName="hibernate_sequence" startValue="1" incrementBy="1" />
+
+        <createTable tableName="bookings"
+                     remarks="A table to contain all bookings">
+
+            <column name="id" type="int8">
+                <constraints nullable="false" unique="true" primaryKey="true"/>
+            </column>
+
+            <column name="booking_date" type="date">
+                <constraints nullable="true" unique="true"/>
+            </column>
+
+            <column name="topic" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="employeer_id" type="int8">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="time_line_id " type="int8">
+                <constraints nullable="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="employeers"
+                     remarks="A table to contain all employeers">
+
+            <column name="id" type="int">
+                <constraints nullable="false" primaryKey="true"/>
+            </column>
+
+            <column name="active" type="boolean">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="name" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="password" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="role" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="rooms"
+                     remarks="A table to contain all rooms">
+
+            <column name="id" type="int8">
+                <constraints nullable="false" unique="true" primaryKey="true"/>
+            </column>
+
+            <column name="name" type="varchar(255)">
+                <constraints nullable="true" unique="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="time_lines"
+                     remarks="A table to contain all time slots">
+
+            <column name="id" type="int8">
+                <constraints nullable="false" unique="true" primaryKey="true"/>
+            </column>
+
+            <column name="time_from" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+
+            <column name="time_to" type="varchar(255)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="room_id" type="int8">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="time_line_id " type="int">
+                <constraints nullable="true"/>
+            </column>
+        </createTable>
+
+
+        <createTable tableName="token"
+                     remarks="A table to contain all tokens">
+
+            <column name="id" type="int8">
+                <constraints nullable="false" unique="true" primaryKey="true"/>
+            </column>
+
+            <column name="value" type="varchar(255)">
+                <constraints nullable="true" unique="true"/>
+            </column>
+
+            <column name="employeer_id" type="int8">
+                <constraints nullable="true" unique="true"/>
+            </column>
+        </createTable>
+
+        <addForeignKeyConstraint baseTableName="bookings" baseColumnNames="employeer_id"
+                                 constraintName="empl_fk"
+                                 referencedTableName="employeers" referencedColumnNames="id"/>
+
+
+        <addForeignKeyConstraint baseTableName="bookings" baseColumnNames="time_line_id"
+                                 constraintName="time_line_fk"
+                                 referencedTableName="time_lines" referencedColumnNames="id"/>
+
+
+        <addForeignKeyConstraint baseTableName="time_lines" baseColumnNames="room_id"
+                                 constraintName="room_fk"
+                                 referencedTableName="rooms" referencedColumnNames="id"/>
+
+
+        <addForeignKeyConstraint baseTableName="token" baseColumnNames="employeer_id"
+                                 constraintName="empl_fk"
+                                 referencedTableName="employeers" referencedColumnNames="id"/>
+
+    </changeSet>
+</databaseChangeLog>

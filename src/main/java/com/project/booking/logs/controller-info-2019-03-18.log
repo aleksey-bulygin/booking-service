@@ -1,0 +1,101 @@
+[INFO ] 2019-03-18 10:43:35.052 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 8752 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 10:43:35.146 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 10:43:46.210 [main] AdminControllerTest - Started AdminControllerTest in 16.189 seconds (JVM running for 27.131)
+[INFO ] 2019-03-18 10:46:17.035 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 3976 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 10:46:17.051 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 10:46:21.726 [main] AdminControllerTest - Started AdminControllerTest in 7.736 seconds (JVM running for 12.49)
+[INFO ] 2019-03-18 10:50:50.069 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 10756 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 10:50:50.100 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 10:50:54.695 [main] AdminControllerTest - Started AdminControllerTest in 7.234 seconds (JVM running for 11.691)
+[INFO ] 2019-03-18 10:57:43.781 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 4388 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 10:57:43.828 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 10:57:48.823 [main] AdminControllerTest - Started AdminControllerTest in 8.308 seconds (JVM running for 12.776)
+[INFO ] 2019-03-18 10:59:13.717 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 1164 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 10:59:13.733 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 10:59:18.712 [main] AdminControllerTest - Started AdminControllerTest in 7.687 seconds (JVM running for 12.025)
+[INFO ] 2019-03-18 11:00:44.815 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 8884 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:00:44.831 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:00:49.648 [main] AdminControllerTest - Started AdminControllerTest in 8.001 seconds (JVM running for 12.689)
+[INFO ] 2019-03-18 11:00:49.882 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 11:12:37.139 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 8324 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:12:37.139 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:12:41.854 [main] AdminControllerTest - Started AdminControllerTest in 7.396 seconds (JVM running for 12.301)
+[INFO ] 2019-03-18 11:17:18.759 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 7580 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:17:18.790 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:17:23.904 [main] AdminControllerTest - Started AdminControllerTest in 7.924 seconds (JVM running for 12.456)
+[INFO ] 2019-03-18 11:17:23.965 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 11:19:48.144 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 2980 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:19:48.159 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:19:52.953 [main] AdminControllerTest - Started AdminControllerTest in 7.518 seconds (JVM running for 11.866)
+[INFO ] 2019-03-18 11:19:53.045 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 11:21:40.531 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 12080 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:21:40.546 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:21:45.467 [main] AdminControllerTest - Started AdminControllerTest in 7.54 seconds (JVM running for 11.826)
+[INFO ] 2019-03-18 11:23:03.448 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 13404 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:23:03.464 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:23:08.531 [main] AdminControllerTest - Started AdminControllerTest in 7.753 seconds (JVM running for 12.342)
+[INFO ] 2019-03-18 11:26:27.656 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 3848 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:26:27.672 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:26:32.467 [main] AdminControllerTest - Started AdminControllerTest in 7.548 seconds (JVM running for 11.867)
+[INFO ] 2019-03-18 11:29:52.664 [main] AdminControllerTest - Starting AdminControllerTest on DESKTOP-DOTFQK3 with PID 13380 (started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 11:29:52.679 [main] AdminControllerTest - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 11:29:57.654 [main] AdminControllerTest - Started AdminControllerTest in 7.648 seconds (JVM running for 11.899)
+[INFO ] 2019-03-18 11:36:45.198 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 13:54:20.000 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 14:10:42.021 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 14:12:34.195 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 16:37:02.278 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 16:37:24.407 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 10592 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 16:37:24.407 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 16:37:42.744 [restartedMain] App - Started App in 21.374 seconds (JVM running for 26.902)
+[INFO ] 2019-03-18 16:37:42.760 [restartedMain] App - info
+[ERROR] 2019-03-18 16:37:42.760 [restartedMain] App - error
+[INFO ] 2019-03-18 16:41:24.197 [http-nio-8080-exec-4] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 16:45:14.148 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 6024 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 16:45:14.148 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 16:45:28.381 [restartedMain] App - Started App in 16.532 seconds (JVM running for 21.223)
+[INFO ] 2019-03-18 16:45:28.396 [restartedMain] App - info
+[ERROR] 2019-03-18 16:45:28.396 [restartedMain] App - error
+[INFO ] 2019-03-18 16:47:24.142 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 13636 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 16:47:24.148 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 16:47:40.605 [restartedMain] App - Started App in 19.146 seconds (JVM running for 24.481)
+[INFO ] 2019-03-18 16:47:40.616 [restartedMain] App - info
+[ERROR] 2019-03-18 16:47:40.617 [restartedMain] App - error
+[INFO ] 2019-03-18 16:48:03.156 [http-nio-8080-exec-3] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 16:50:09.813 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 13876 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 16:50:09.818 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 16:50:25.094 [restartedMain] App - Started App in 17.621 seconds (JVM running for 22.318)
+[INFO ] 2019-03-18 16:50:25.102 [restartedMain] App - info
+[ERROR] 2019-03-18 16:50:25.102 [restartedMain] App - error
+[INFO ] 2019-03-18 17:34:19.032 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:11:39.164 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 9116 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 18:11:39.164 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 18:11:54.708 [restartedMain] App - Started App in 17.882 seconds (JVM running for 23.312)
+[INFO ] 2019-03-18 18:11:54.708 [restartedMain] App - info
+[ERROR] 2019-03-18 18:11:54.708 [restartedMain] App - error
+[INFO ] 2019-03-18 18:15:53.343 [http-nio-8080-exec-2] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:16:13.778 [http-nio-8080-exec-3] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:17:43.578 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:31:28.036 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 9116 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 18:31:28.036 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 18:31:35.899 [restartedMain] App - Started App in 8.238 seconds (JVM running for 1204.502)
+[INFO ] 2019-03-18 18:31:35.915 [restartedMain] App - info
+[ERROR] 2019-03-18 18:31:35.915 [restartedMain] App - error
+[INFO ] 2019-03-18 18:31:37.837 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:33:06.386 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 9116 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 18:33:06.386 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 18:33:14.471 [restartedMain] App - Started App in 8.46 seconds (JVM running for 1303.077)
+[INFO ] 2019-03-18 18:33:14.471 [restartedMain] App - info
+[ERROR] 2019-03-18 18:33:14.487 [restartedMain] App - error
+[INFO ] 2019-03-18 18:33:16.238 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:34:55.802 [restartedMain] App - Starting App on DESKTOP-DOTFQK3 with PID 9116 (C:\Users\User\IdeaProjects\booking-service\target\classes started by User in C:\Users\User\IdeaProjects\booking-service)
+[INFO ] 2019-03-18 18:34:55.802 [restartedMain] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-03-18 18:35:03.611 [restartedMain] App - Started App in 8.137 seconds (JVM running for 1412.213)
+[INFO ] 2019-03-18 18:35:03.611 [restartedMain] App - info
+[ERROR] 2019-03-18 18:35:03.611 [restartedMain] App - error
+[INFO ] 2019-03-18 18:35:05.591 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:35:45.177 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:37:05.614 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:41:22.340 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:45:40.721 [main] AdminController - Enter in showRooms method
+[INFO ] 2019-03-18 18:55:58.274 [main] AdminController - Enter in showRooms method
